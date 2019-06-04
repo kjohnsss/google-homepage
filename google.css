@@ -1,0 +1,36 @@
+.center {
+    display: block;
+    margin: 0 auto;
+    padding-top: 160px;
+}
+
+#search {
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#buttons {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.rightnav, .rightfooter {
+    float: right;
+}
+
+li {
+    float: left;
+    display: inline;
+}
+
+a {
+    padding: 14px 16px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f3f3f3;
+}
